@@ -9,4 +9,4 @@ La banque d'images a été créé à partir d'images de personnalités du monde 
 
 
 
-Voici le lien pour utiliser le notebook : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lebonprof/A_la_facon_d_Andy_Warhol/HEAD)
+Voici le lien pour utiliser le notebook : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cobacdavid/A_la_facon_d_Andy_Warhol/HEAD)
